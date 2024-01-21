@@ -32,4 +32,4 @@ server.on("request", async (request, response) => {
 })
 
 
-server.listen(10000, "0.0.0.0", () => console.log("server running"))
+server.listen(10000 , () => console.log("server running"))
